@@ -1,0 +1,14 @@
+D:\Test1\C#_Practice\PRACTICE_C#\PRACTICE_C#\bin\Debug\netcoreapp3.0\PRACTICE_C#.exe
+D:\Test1\C#_Practice\PRACTICE_C#\PRACTICE_C#\bin\Debug\netcoreapp3.0\PRACTICE_C#.deps.json
+D:\Test1\C#_Practice\PRACTICE_C#\PRACTICE_C#\bin\Debug\netcoreapp3.0\PRACTICE_C#.runtimeconfig.json
+D:\Test1\C#_Practice\PRACTICE_C#\PRACTICE_C#\bin\Debug\netcoreapp3.0\PRACTICE_C#.runtimeconfig.dev.json
+D:\Test1\C#_Practice\PRACTICE_C#\PRACTICE_C#\bin\Debug\netcoreapp3.0\PRACTICE_C#.dll
+D:\Test1\C#_Practice\PRACTICE_C#\PRACTICE_C#\bin\Debug\netcoreapp3.0\PRACTICE_C#.pdb
+D:\Test1\C#_Practice\PRACTICE_C#\PRACTICE_C#\obj\Debug\netcoreapp3.0\PRACTICE_C#.csproj.AssemblyReference.cache
+D:\Test1\C#_Practice\PRACTICE_C#\PRACTICE_C#\obj\Debug\netcoreapp3.0\PRACTICE_C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test1\C#_Practice\PRACTICE_C#\PRACTICE_C#\obj\Debug\netcoreapp3.0\PRACTICE_C#.AssemblyInfoInputs.cache
+D:\Test1\C#_Practice\PRACTICE_C#\PRACTICE_C#\obj\Debug\netcoreapp3.0\PRACTICE_C#.AssemblyInfo.cs
+D:\Test1\C#_Practice\PRACTICE_C#\PRACTICE_C#\obj\Debug\netcoreapp3.0\PRACTICE_C#.csproj.CoreCompileInputs.cache
+D:\Test1\C#_Practice\PRACTICE_C#\PRACTICE_C#\obj\Debug\netcoreapp3.0\PRACTICE_C#.dll
+D:\Test1\C#_Practice\PRACTICE_C#\PRACTICE_C#\obj\Debug\netcoreapp3.0\PRACTICE_C#.pdb
+D:\Test1\C#_Practice\PRACTICE_C#\PRACTICE_C#\obj\Debug\netcoreapp3.0\PRACTICE_C#.genruntimeconfig.cache
